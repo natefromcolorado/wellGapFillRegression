@@ -1,5 +1,4 @@
-## changes that I've made
-
+## changed a few things
 #########
 # TITLE: GAP FILLING FOR GROUNDWATER WELLS 
 # AUTHOR: NATHAN JOHNSON
