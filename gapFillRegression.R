@@ -1,7 +1,7 @@
-## this is a test for GW modeling section ##
+#HEy guys, we are moving into the future!
 #########
 # TITLE: GAP FILLING FOR GROUNDWATER WELLS 
-# AUTHOR: NATHAN JOHNSON
+# AUTHOR: GW group
 # DATE: 2014-03-27
 
 #packages for data formatting
